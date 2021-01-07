@@ -1,2 +1,2 @@
-# Gugbi_3_JDBC_workspace
-Gugbi_3_JDBC_workspace
+# JDBC_Study
+### JDBC 
