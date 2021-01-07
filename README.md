@@ -1,2 +1,2 @@
 # JDBC_Study
-### JDBC 
+### JDBC 공부
