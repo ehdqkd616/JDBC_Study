@@ -40,13 +40,13 @@ ___
 
 - **Member**
   - [Controller](https://github.com/ehdqkd616/JDBC_Study/tree/main/testJDBC3/src/com/kh/member/controller)
-  - [Model]
+  - Model
     - [Service](https://github.com/ehdqkd616/JDBC_Study/tree/main/testJDBC3/src/com/kh/member/model/service)
     - [DAO](https://github.com/ehdqkd616/JDBC_Study/tree/main/testJDBC3/src/com/kh/member/model/dao)
     - [VO](https://github.com/ehdqkd616/JDBC_Study/tree/main/testJDBC3/src/com/kh/member/model/vo)
 - **Board**
   - [Controller](https://github.com/ehdqkd616/JDBC_Study/tree/main/testJDBC3/src/com/kh/board/controller)
-  - [Model]
+  - Model
     - [Service](https://github.com/ehdqkd616/JDBC_Study/tree/main/testJDBC3/src/com/kh/board/model/service)
     - [DAO](https://github.com/ehdqkd616/JDBC_Study/tree/main/testJDBC3/src/com/kh/board/model/dao)
     - [VO](https://github.com/ehdqkd616/JDBC_Study/tree/main/testJDBC3/src/com/kh/board/model/vo)
